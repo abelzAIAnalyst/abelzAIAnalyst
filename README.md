@@ -34,4 +34,4 @@ Moim celem jest wprowadzanie rolnictwa w erę cyfrową poprzez analizę danych, 
 ---
 
 ### 📫 Kontakt
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]((www.linkedin.com/in/adrian-belz-9830b539b))
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/adrian-belz-9830b539b)
